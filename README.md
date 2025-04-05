@@ -26,13 +26,13 @@ Usually, we use the config file in model training, testing and detailed analyzin
 
 The config file contains all necessary information, such as path,data,model, etc.
 
-The config file of our work is LandBench1.0/src/config.py
+The config file of our work is config.py
 
 ### Process data and train model
-Run the following command in the directory of LandBench1.0/src/ to process data and start training.
-python main.py 
+Run the following command in the directory of kde_src/ to process data and start training.
+- python main.py 
 
 ### Detailed analyzing
-Run the following command in the directory of LandBench1.0/src/ to get detailed analyzing.
-python postprocess.py 
-python post_test.py 
+Run the following command in the directory of kde_src/ to get detailed analyzing. 
+- python postprocess.py
+- python post_test.py 
