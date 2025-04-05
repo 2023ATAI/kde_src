@@ -11,17 +11,15 @@ The prediction toolbox is hosted here(https://github.com/2023ATAI/LandBench1.0)
 LandBench works in Python3.9.13
 In order to use the LandBench successfully, the following site-packages are required:
 
-pytorch 1.13.1
-pandas 1.4.4
-numpy 1.22.0
-scikit-learn 1.0.2
-scipy 1.7.3
-matplotlib 3.5.2
-xarray 2023.1.0
-netCDF4 1.6.2
-The latest LandBench1.0 can work in
-
-linux-Ubuntu 18.04.6
+- pytorch 1.13.1
+- pandas 1.4.4
+- numpy 1.22.0
+- scikit-learn 1.0.2
+- scipy 1.7.3
+- matplotlib 3.5.2
+- xarray 2023.1.0
+- netCDF4 1.6.2
+The latest LandBench1.0 can work in linux-Ubuntu 18.04.6
 
 ### Prepare Config File
 Usually, we use the config file in model training, testing and detailed analyzing.
