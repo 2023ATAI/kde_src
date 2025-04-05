@@ -2,10 +2,10 @@
 To address the challenge of data imbalance in soil moisture (SM) prediction, we propose a Sampling-Weighted Sensitive Learning Strategy. This method enhances model sensitivity to rare but important samples by assigning adaptive weights during training. By emphasizing underrepresented data regions, the strategy improves model generalization and short-term prediction accuracy. It has been effectively integrated into multiple deep learning models, including LSTM, BiLSTM, and GRU, and demonstrated superior performance compared to baseline approaches.
 
 ### Dataset
-We use the LandBench1.0 dataset proposed by Li et al. and the data-driven land surface variables (LSVs) prediction toolbox.
+We use the LandBench1.0 dataset proposed by Li et al. and the data-driven land surface variables (LSVs) prediction toolbox.<br>
 
-The LSVs benchmark dataset is hosted here(https://doi.org/10.11888/Atmos.tpdc.300294)
-The prediction toolbox is hosted here(https://github.com/2023ATAI/LandBench1.0)
+The LSVs benchmark dataset is hosted here(https://doi.org/10.11888/Atmos.tpdc.300294)<br>
+The prediction toolbox is hosted here(https://github.com/2023ATAI/LandBench1.0)<br>
 
 ### Requirements
 LandBench works in Python3.9.13
